@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(SquareCalculator.calculateSquare(0));
+        System.out.println(SquareCalculator.calculateSquare(2));
+        System.out.println(SquareCalculator.calculateSquare(100));
     }
 }
