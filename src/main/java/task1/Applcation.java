@@ -8,6 +8,7 @@ public class Applcation {
         methodForEach(massive);
         methodWhile(massive);
     }
+
     private static void methodFor(String[] massive){
         for (int i = 0; i < massive.length; i++) {
             System.out.print(massive[i]);

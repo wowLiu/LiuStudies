@@ -17,6 +17,8 @@ public class Applcation {
             }
         }
         printWhile(array);
+        printFor(array);
+        printForEach(array);
     }
 
 
