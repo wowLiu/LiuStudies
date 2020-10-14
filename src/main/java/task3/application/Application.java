@@ -10,6 +10,7 @@ public class Application {
         ServiceDesk.createTicket("Необходимо починить принтер в комнате 207");
         ServiceDesk.createTicket("Прошу произвести внеплановую уборку в переговорной №1");
         ServiceDesk.createTicket("Прошу выдать канцелярские принадлежности сотруднику Баранову А.С.");
+        ServiceDesk.createTicket("У меня паламалсё компьютер");
     }
 }
 
